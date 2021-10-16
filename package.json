@@ -1,0 +1,9 @@
+{
+  "name": "floating_pick_app",
+  "version": "0.0.0",
+  "description": "Floating_Pick_app",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
